@@ -2,6 +2,6 @@
 
 making digital temperature 
 
-![ADC]()
+![ADC](https://github.com/erfan-kanani/embeded-systems/blob/master/Ex%206/part%201/adc-gif.gif)
 
 
