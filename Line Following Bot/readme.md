@@ -1,4 +1,4 @@
 # Line Following Bot
 
 ## test bot
-![Bot](bot.gif) / ![](bot.gif)
+![Bot](bot.gif)
